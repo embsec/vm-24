@@ -1,0 +1,11 @@
+# Copyright 2024 The MITRE Corporation. ALL RIGHTS RESERVED
+# Approved for public release. Distribution unlimited 23-02181-21.
+
+future==1.0.0
+iso8601==2.1.0
+Jinja2==3.1.4
+MarkupSafe==2.1.5
+pycryptodome==3.20.0
+pyserial==3.5
+PyYAML==6.0.1
+pwntools==4.12.0
